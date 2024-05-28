@@ -15,7 +15,10 @@ use TYPO3\CMS\Core\Utility\GeneralUtility;
  */
 class FetchUtility
 {
-    public function getStreamContext(): \resource
+    /**
+     * @return resource|null
+     */
+    public function getStreamContext()
     {
         $context = null;
         $applicationContext = Environment::getContext();
@@ -35,7 +38,7 @@ class FetchUtility
 
     public function getResponse(string $url): Response
     {
-        $context = null;
+        $context = [];
         $applicationContext = Environment::getContext();
         if ($applicationContext->isDevelopment()) {
             $context = ['verify' => Typo3ConfVarsUtility::getDMConfigSSLVerify()];
