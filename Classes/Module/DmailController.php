@@ -1921,8 +1921,8 @@ final class DmailController extends MainController
         // Fetch page title from translated page
         if ($newRecord['sys_language_uid'] > 0) {
             $pageRecordOverlay = GeneralUtility::makeInstance(PagesRepository::class)->selectTitleTranslatedPage($pageUid, (int)$newRecord['sys_language_uid']);
-            if (is_array($pageRecordOverlay)) {
-                $pageRecord['title'] = $pageRecordOverlay['title'];
+            if ($pageRecordOverlay !== false && $pageRecordOverlay !== '') {
+                $pageRecord['title'] = $pageRecordOverlay;
             }
         }
 
