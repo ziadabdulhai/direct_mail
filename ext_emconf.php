@@ -8,7 +8,6 @@ $EM_CONF[$_EXTKEY] = [
     'author_email' => 'ivan.kartolo@dkd.de',
     'author_company' => 'd.k.d Internet Service GmbH',
     'state' => 'alpha',
-    'clearcacheonload' => 0,
     'version' => '10.0.0',
     'constraints' => [
         'depends' => [
