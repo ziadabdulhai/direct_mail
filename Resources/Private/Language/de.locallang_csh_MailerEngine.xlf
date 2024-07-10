@@ -14,30 +14,30 @@
     <body>
       <trans-unit id=".alttitle">
         <source>Direct Mail &gt; Mailer Engine module</source>
-        <target state="needs-translation">Direct Mail &gt; Mailer Engine module</target>
+        <target state="translated">Direct Mail &gt; Versandstatus-Modul</target>
       </trans-unit>
       <trans-unit id=".description">
         <source>Show status and queuing jobs of the Mailer Engine</source>
-        <target state="needs-translation">Show status and queuing jobs of the Mailer Engine</target>
+        <target state="translated">Zeigt Status des Versands und anstehenden Newsletter-Versand an.</target>
       </trans-unit>
       <trans-unit id=".details">
         <source>Show the detailed status and queuing jobs of the Mailer Engine.</source>
-        <target state="needs-translation">Show the detailed status and queuing jobs of the Mailer Engine.</target>
+        <target state="translated">Zeigt detaillierten Status des Versands und anstehenden Newsletter-Versand an.</target>
       </trans-unit>
       <trans-unit id="_.seeAlso">
         <source/>
       </trans-unit>
       <trans-unit id="folders.alttitle">
         <source>Available Direct Mail folders</source>
-        <target state="needs-translation">Available Direct Mail folders</target>
+        <target state="translated">Verfügbare Direct Mail Ordner</target>
       </trans-unit>
       <trans-unit id="folders.description">
         <source>Select the Direct Mail folder you wish to work with.</source>
-        <target state="needs-translation">Select the Direct Mail folder you wish to work with.</target>
+        <target state="translated">Wählen Sie den Direct Mail Ordner, mit dem Sie arbeiten wollen.</target>
       </trans-unit>
       <trans-unit id="folders.details">
         <source>Each Direct Mail folder is a specifically configured work area for the Direct Mail module.</source>
-        <target state="needs-translation">Each Direct Mail folder is a specifically configured work area for the Direct Mail module.</target>
+        <target state="translated">Jeder Direct-Mail-Ordner enthält eine eigene Newsletter-Konfiguration. Für unterschiedliche Zwecke oder Empfänger können Sie so unterschiedlich gestaltete Newsletter versenden.</target>
       </trans-unit>
     </body>
   </file>
