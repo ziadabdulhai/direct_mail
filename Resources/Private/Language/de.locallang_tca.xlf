@@ -277,15 +277,15 @@
       </trans-unit>
       <trans-unit id="sys_dmail_group.query">
         <source>Query</source>
-        <target state="needs-translation">Query</target>
+        <target state="translated">Abfrage</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.queryLimit">
         <source>Query Limit</source>
-        <target state="needs-translation">Query Limit</target>
+        <target state="translated">Abfragelimit</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.queryLimitDisabled">
         <source>Query Limit Disabled</source>
-        <target state="needs-translation">Query Limit Disabled</target>
+        <target state="translated">Abfragelimit deaktiviert</target>
       </trans-unit>
     </body>
   </file>
