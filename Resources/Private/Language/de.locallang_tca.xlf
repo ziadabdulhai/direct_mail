@@ -213,43 +213,43 @@
       </trans-unit>
       <trans-unit id="sys_dmail_group.csv.I.1">
         <source>CSV [name],[email]</source>
-        <target state="needs-translation">CSV [name],[email]</target>
+        <target state="translated">CSV [name],[email]</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.list">
         <source>Recipients:</source>
-        <target state="needs-translation">Recipients:</target>
+        <target state="translated">Empfänger:</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.mail_groups">
         <source>Other recipient lists:</source>
-        <target state="needs-translation">Other recipient lists:</target>
+        <target state="translated">Andere Versandgruppen:</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.recursive">
         <source>Include page subtree:</source>
-        <target state="needs-translation">Include page subtree:</target>
+        <target state="translated">Unterseiten einschließen:</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.select_categories">
         <source>Must subscribe to one of the categories:</source>
-        <target state="needs-translation">Must subscribe to one of the categories:</target>
+        <target state="translated">Kategorien müssen übereinstimmen:</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.static_list">
         <source>Recipients:</source>
-        <target state="needs-translation">Recipients:</target>
+        <target state="translated">Empfänger:</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.type.I.0">
         <source>From pages</source>
-        <target state="needs-translation">From pages</target>
+        <target state="translated">Von Seiten</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.type.I.1">
         <source>Plain list</source>
-        <target state="needs-translation">Plain list</target>
+        <target state="translated">Normale Liste</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.type.I.2">
         <source>Static list</source>
-        <target state="needs-translation">Static list</target>
+        <target state="translated">Statische Gruppe</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.type.I.3">
         <source>Special query</source>
-        <target state="needs-translation">Special query</target>
+        <target state="translated">Spezielle Anfrage</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.type.I.4">
         <source>From other recipient lists</source>
