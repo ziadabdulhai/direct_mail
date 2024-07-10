@@ -10,27 +10,27 @@
     <body>
       <trans-unit id="configure_HTMLParams_description" resname="configure_HTMLParams_description">
         <source>Enter the additional URL parameters used to fetch the HTML content from a TYPO3 page.</source>
-        <target state="needs-translation">Enter the additional URL parameters used to fetch the HTML content from a TYPO3 page.</target>
+        <target state="translated">Geben Sie die zusätzlichen URL-Parameter ein, die verwendet werden, um den HTML-Inhalt von einer TYPO3-Seite zu holen.</target>
       </trans-unit>
       <trans-unit id="configure_HTMLParams_details" resname="configure_HTMLParams_details">
         <source>The specified parameters will be added to the URL used to fetch the HTML content of the direct mail from a TYPO3 page. If in doubt, leave it blank.</source>
-        <target state="needs-translation">The specified parameters will be added to the URL used to fetch the HTML content of the direct mail from a TYPO3 page. If in doubt, leave it blank.</target>
+        <target state="translated">Die eingegebene Parameter werden in der URL hinzugefügt, um HTML-Inhalte einer TYPO3-Seite auszulesen. Im Zweifel leer lassen.</target>
       </trans-unit>
       <trans-unit id="configure_default_content" resname="configure_default_content">
         <source>Default values for mail content format</source>
-        <target state="needs-translation">Default values for mail content format</target>
+        <target state="translated">Setze Standardwerte für das Format von E-Mail-Inhalten</target>
       </trans-unit>
       <trans-unit id="configure_default_fetching" resname="configure_default_fetching">
         <source>Default values for mail content fetching options</source>
-        <target state="needs-translation">Default values for mail content fetching options</target>
+        <target state="translated">Setze Standardwerte für das Auslesen von E-Mail-Inhalten</target>
       </trans-unit>
       <trans-unit id="configure_default_headers" resname="configure_default_headers">
         <source>Default values for Direct Mails headers</source>
-        <target state="needs-translation">Default values for Direct Mails headers</target>
+        <target state="translated">Setze Standardwerte für Direct Mail Headers</target>
       </trans-unit>
       <trans-unit id="configure_direct_mail_module" resname="configure_direct_mail_module">
         <source>Configure direct mail module</source>
-        <target state="needs-translation">Configure direct mail module</target>
+        <target state="translated">Konfigurieren des Direct Mail Moduls</target>
       </trans-unit>
       <trans-unit id="configure_directmail_charset" resname="configure_directmail_charset">
         <source>Default character set for direct mails built from external pages</source>
