@@ -253,27 +253,27 @@
       </trans-unit>
       <trans-unit id="sys_dmail_group.type.I.4">
         <source>From other recipient lists</source>
-        <target state="needs-translation">From other recipient lists</target>
+        <target state="translated">Von anderen Versandgruppen</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.whichtables">
         <source>Types of records:</source>
-        <target state="needs-translation">Types of records:</target>
+        <target state="translated">Tabellen:</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.whichtables.I.0">
         <source>Address</source>
-        <target state="needs-translation">Address</target>
+        <target state="translated">Adresse</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.whichtables.I.1">
         <source>Website user</source>
-        <target state="needs-translation">Website user</target>
+        <target state="translated">Website-Benutzer</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.whichtables.I.2">
         <source>From custom-defined table</source>
-        <target state="needs-translation">From custom-defined table</target>
+        <target state="translated">Benutzerdefinierte Tabelle</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.whichtables.I.3">
         <source>Website User Group</source>
-        <target state="needs-translation">Website User Group</target>
+        <target state="translated">Website-Benutzergruppe</target>
       </trans-unit>
       <trans-unit id="sys_dmail_group.query">
         <source>Query</source>
