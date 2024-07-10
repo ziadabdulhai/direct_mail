@@ -36,21 +36,21 @@
 6. Categories Conversion: this function is a migration tool that lets you convert your database to the new Direct Mail Categories introduced in version 2.0 of Direct Mail. Please refer to the manual for more information.
 
 7. Module Configuration: this function is an administration tool used to configure a Direct Mail folder. Please refer to the manual for more information.]]></source>
-		<target state="needs-translation"><![CDATA[The functions of the Direct Mail module are the following, but their availability may be restricted depending on user access rights:
+		<target state="translated"><![CDATA[Das Modul Direct Mail bietet folgende Funktionen, deren Verfügbarkeit jedoch je nach Zugriffsrechten des Benutzers eingeschränkt sein kann:
 
-1. Newsletters: this function lets you create a new newsletter or select an existing one; you may also select an existing newsletter in the page tree of the Direct Mail folder; selecting an existing newsletter leads you to a screen that lets you view or edit the newsletter, assign categories to the content elements of the page, view the list of direct mails already based on this newsletter page, or create a new one based on it.
+1. Newsletter: Mit dieser Funktion können Sie einen neuen Newsletter erstellen oder einen bestehenden auswählen; Sie können auch einen bestehenden Newsletter im Seitenbaum des Direct Mail Ordners auswählen; die Auswahl eines bestehenden Newsletters führt Sie zu einem Bildschirm, auf dem Sie den Newsletter ansehen oder bearbeiten, den Inhaltselementen der Seite Kategorien zuweisen, die Liste der Direct Mails, die bereits auf dieser Newsletter-Seite basieren, ansehen oder einen neuen Newsletter auf dieser Seite erstellen können.
 
-2. Direct Mails: this function lets you create a new direct mail based on a newsletter that has not yet been used to create one, or based on an external URL, or select an existing direct mail; selecting an existing direct mail leads you to a screen that lets you view the current information on the direct mail, edit the properties of the direct mail, and select from a menu of options the action you want to take on the selected direct mail.
+2. Direct Mails: Mit dieser Funktion können Sie ein neues Direct Mail auf der Grundlage eines noch nicht verwendeten Newsletters oder einer externen URL erstellen oder ein bestehendes Direct Mail auswählen; die Auswahl eines bestehenden Direct Mails führt Sie zu einem Bildschirm, auf dem Sie die aktuellen Informationen zum Direct Mail einsehen, die Eigenschaften des Direct Mails bearbeiten und aus einem Menü von Optionen die Aktion auswählen können, die Sie für das ausgewählte Direct Mail durchführen möchten.
 
-3. Recipient Lists: this function lets you create a new recipient list, import Addresses records from csv data to create a new recipient list, link to the diting form of an existing recipient list, or select an existing recipient list; selecting an existing recipient list leads you to a screen that lets you view the number of recipients of each type in the list, with the options to list the recipients or download a csv file.
+3. Empfängerlisten: Mit dieser Funktion können Sie eine neue Empfängerliste erstellen, Adressdatensätze aus CSV-Daten importieren, um eine neue Empfängerliste zu erstellen, eine Verknüpfung zum Bearbeitungsformular einer bestehenden Empfängerliste herstellen oder eine bestehende Empfängerliste auswählen; wenn Sie eine bestehende Empfängerliste auswählen, gelangen Sie zu einem Bildschirm, in dem Sie die Anzahl der Empfänger jedes Typs in der Liste anzeigen können.
 
-4. Mailer Engine Status: this function lets you review the current status of the direct mails that have been scheduled for mass sending, and invoke manually the mailer engine, if it is not configured to be automatically invoked; selecting one of the listed direct mails leads you to the Direct Mails function where you may select to review the statistics of the selected direct mail.
+4. Mailer-Engine-Status: Mit dieser Funktion können Sie den aktuellen Status der Direct Mails, die für den Massenversand vorgesehen sind, überprüfen und die Mailer-Engine manuell aufrufen, wenn sie nicht so konfiguriert ist, dass sie automatisch aufgerufen wird; wenn Sie eine der aufgelisteten Direct Mails auswählen, gelangen Sie zur Funktion Direct Mails, wo Sie die Statistiken der ausgewählten Direct Mail einsehen können.
 
-5. QuickMail: this function lets you enter a short message and send it immediately to a recipient list. No newsletter, nor any direct mail is involved in this function.
+5. QuickMail: Mit dieser Funktion können Sie eine kurze Nachricht eingeben und sie sofort an eine Empfängerliste senden. Diese Funktion beinhaltet weder einen Newsletter noch ein Direktmailing.
 
-6. Categories Conversion: this function is a migration tool that lets you convert your database to the new Direct Mail Categories introduced in version 2.0 of Direct Mail. Please refer to the manual for more information.
+6. Kategorienkonvertierung: Diese Funktion ist ein Migrationswerkzeug, mit dem Sie Ihre Datenbank in die neuen Direct-Mail-Kategorien konvertieren können, die in Version 2.0 von Direct Mail eingeführt wurden. Bitte lesen Sie das Handbuch für weitere Informationen.
 
-7. Module Configuration: this function is an administration tool used to configure a Direct Mail folder. Please refer to the manual for more information.]]></target></trans-unit>
+7. Modulkonfiguration: Diese Funktion ist ein Verwaltungstool, mit dem Sie einen Direct Mail Ordner konfigurieren können. Weitere Informationen entnehmen Sie bitte dem Handbuch.]]></target></trans-unit>
       <trans-unit id="_.seeAlso">
         <source>sys_dmail, sys_dmail_group, sys_dmail_category</source>
         <target state="translated">sys_dmail, sys_dmail_group, sys_dmail_category</target>
