@@ -34,161 +34,160 @@
       </trans-unit>
       <trans-unit id="configure_directmail_charset" resname="configure_directmail_charset">
         <source>Default character set for direct mails built from external pages</source>
-        <target state="needs-translation">Default character set for direct mails built from external pages</target>
+        <target state="translated">Standard Zeichensatz für Direct Mails, die auf externe Seiten basieren</target>
       </trans-unit>
       <trans-unit id="configure_directmail_charset_description" resname="configure_directmail_charset_description">
         <source>Specify the character set used in direct mails when they are built from external pages and character set cannot be auto-detected.</source>
-        <target state="needs-translation">Specify the character set used in direct mails when they are built from external pages and character set cannot be auto-detected.</target>
+        <target state="translated">Gibt den Zeichensatz der Direct Mails an, die auf externen Seiten basieren, bei denen der Zeichensatz nicht automatisch bestimmt werden kann.</target>
       </trans-unit>
       <trans-unit id="configure_directmail_encoding" resname="configure_directmail_encoding">
         <source>Default encoding of direct mails</source>
-        <target state="needs-translation">Default encoding of direct mails</target>
+        <target state="translated">Standardkodierung der Direct Mails</target>
       </trans-unit>
       <trans-unit id="configure_directmail_encoding_description" resname="configure_directmail_encoding_description">
         <source>Select the default content transfer encoding of direct mails.</source>
-        <target state="needs-translation">Select the default content transfer encoding of direct mails.</target>
+        <target state="translated">Wähle die Standardkodierung der Direct Mail Inhalte.</target>
       </trans-unit>
       <trans-unit id="configure_html_only" resname="configure_html_only">
         <source>HTML only</source>
-        <target state="needs-translation">HTML only</target>
+        <target state="translated">Nur HTML</target>
       </trans-unit>
       <trans-unit id="configure_http_password" resname="configure_http_password">
         <source>HTTP Password</source>
-        <target state="needs-translation">HTTP Password</target>
+        <target state="translated">HTTP Kennwort</target>
       </trans-unit>
       <trans-unit id="configure_http_password_description" resname="configure_http_password_description">
         <source>If mail content is protected by HTTP authentication, enter the password here.</source>
-        <target state="needs-translation">If mail content is protected by HTTP authentication, enter the password here.</target>
+        <target state="translated">Wenn E-Mail-Inhalte mit HTTP Authentifikation geschützt sind, gib das Kennwort ein.</target>
       </trans-unit>
       <trans-unit id="configure_http_username" resname="configure_http_username">
         <source>HTTP Username</source>
-        <target state="needs-translation">HTTP Username</target>
+        <target state="translated">HTTP Benutzername</target>
       </trans-unit>
       <trans-unit id="configure_http_username_description" resname="configure_http_username_description">
         <source>If mail content is protected by HTTP authentication, enter the username here.</source>
-        <target state="needs-translation">If mail content is protected by HTTP authentication, enter the username here.</target>
+        <target state="translated">Wenn E-Mail-Inhalte mit HTTP Authentifikation geschützt sind, gib den Benutzernamen ein.</target>
       </trans-unit>
       <trans-unit id="configure_http_username_details" resname="configure_http_username_details" xml:space="preserve">
 				<source><![CDATA[The username and password is used to fetch mail content. They are NOT sent in the mail!
 	If you do not specify a username and password and the newsletter pages happen to be protected, an error will occur and no mail content will be fetched.]]></source>
-			<target state="needs-translation"><![CDATA[The username and password is used to fetch mail content. They are NOT sent in the mail!
-	If you do not specify a username and password and the newsletter pages happen to be protected, an error will occur and no mail content will be fetched.]]></target></trans-unit>
+			<target state="translated"><![CDATA[Benutzername und Kennwort werden nur benutzt, um E-Mail-Inhalte auszulesen. Sie werden NICHT in der E-Mail verschickt!
+Wenn Benutzername und Kennwort nicht angegeben sind und die Newsletter-Seite mit einem Kennwort geschützt ist, wird es einen Fehler geben und keine Inhalte werden ausgelesen.]]></target></trans-unit>
       <trans-unit id="configure_jumpurl_tracking_privacy" resname="configure_jumpurl_tracking_privacy">
         <source>Privacy jumpurl</source>
-        <target state="needs-translation">Privacy jumpurl</target>
+        <target state="translated">Anonyme Jump-URL</target>
       </trans-unit>
       <trans-unit id="configure_jumpurl_tracking_privacy_description" resname="configure_jumpurl_tracking_privacy_description">
         <source>Set this option, to anonymize click statistics </source>
-        <target state="needs-translation">Set this option, to anonymize click statistics </target>
+        <target state="translated">Setze diese Option, um die Klick-Statistiken zu anonymisieren</target>
       </trans-unit>
       <trans-unit id="configure_options_additional" resname="configure_options_additional">
         <source>Additional module options</source>
-        <target state="needs-translation">Additional module options</target>
+        <target state="translated">Lege zusätzliche Moduleinstellungen fest:</target>
       </trans-unit>
       <trans-unit id="configure_options_encoding" resname="configure_options_encoding">
         <source>Options for content transfer encoding and character set</source>
-        <target state="needs-translation">Options for content transfer encoding and character set</target>
+        <target state="translated">Optionen für Versandkodierung und Zeichensatz:</target>
       </trans-unit>
       <trans-unit id="configure_options_links" resname="configure_options_links">
         <source>Options for links in mail content</source>
-        <target state="needs-translation">Options for links in mail content</target>
+        <target state="translated">Optionen für Link-Einstellungen in E-Mails:</target>
       </trans-unit>
       <trans-unit id="configure_options_links_jumpurl" resname="configure_options_links_jumpurl">
         <source>Enable jump URL's:</source>
-        <target state="needs-translation">Enable jump URL's:</target>
+        <target state="translated">Aktiviere Jump-URLs:</target>
       </trans-unit>
       <trans-unit id="configure_options_links_jumpurl_description" resname="configure_options_links_jumpurl_description">
         <source>Check this option to enable jump URL's and the collection of click statistics.</source>
-        <target state="needs-translation">Check this option to enable jump URL's and the collection of click statistics.</target>
+        <target state="translated">Aktivieren Sie diese Option, um Jump-URLs und das Sammeln von Klick-Statistiken zu aktivieren.</target>
       </trans-unit>
       <trans-unit id="configure_options_links_rdct" resname="configure_options_links_rdct">
         <source>This configuration determines how QuickMails are handled and further sets the default value for Direct Mails.</source>
-        <target state="needs-translation">This configuration determines how QuickMails are handled and further sets the default value for Direct Mails.</target>
+        <target state="translated">Diese Konfiguration legt fest, wie QuickMails behandelt werden, und setzt Standardwerte für Direct Mails.</target>
       </trans-unit>
       <trans-unit id="configure_options_mailto_jumpurl" resname="configure_options_mailto_jumpurl">
         <source>Enable jump URL's for mailto links:</source>
-        <target state="needs-translation">Enable jump URL's for mailto links:</target>
+        <target state="translated">Aktiviere Jump-URLs für mailto-Links:</target>
       </trans-unit>
       <trans-unit id="configure_options_mailto_jumpurl_description" resname="configure_options_mailto_jumpurl_description">
         <source>Check this option to enable jump URL's for mailto links.</source>
-        <target state="needs-translation">Check this option to enable jump URL's for mailto links.</target>
+        <target state="translated">Setze diese Option, um Jump-URLs für mailto-Links zu aktivieren.</target>
       </trans-unit>
       <trans-unit id="configure_plainParams_description" resname="configure_plainParams_description">
         <source>Enter the additional URL parameters used to fetch the plain text content from a TYPO3 page.</source>
-        <target state="needs-translation">Enter the additional URL parameters used to fetch the plain text content from a TYPO3 page.</target>
+        <target state="translated">Gib hier die zusätzlichen URL-Parameter ein, die benötigt werden, um den einfachen Textinhalt von einer TYPO3-Seite zu holen.</target>
       </trans-unit>
       <trans-unit id="configure_plainParams_details" resname="configure_plainParams_details">
         <source>The specified parameters will be added to the URL used to fetch the plain text content of the direct mail from a TYPO3 page. If in doubt, set it either to '&amp;type=99' or, when using TemplaVoila, to '&amp;print=1'.</source>
-        <target state="needs-translation">The specified parameters will be added to the URL used to fetch the plain text content of the direct mail from a TYPO3 page. If in doubt, set it either to '&amp;type=99' or, when using TemplaVoila, to '&amp;print=1'.</target>
+        <target state="translated">Die eingegebene Parameter werden in der URL hinzugefügt, um die HTML-Inhalte einer TYPO3 Seite auszulesen. Im Zweifel, setzt entweder '&amp;type=99' oder '&amp;print=1' (nur TemplaVoila).</target>
       </trans-unit>
       <trans-unit id="configure_plain_and_html" resname="configure_plain_and_html">
         <source>Plain text and HTML</source>
-        <target state="needs-translation">Plain text and HTML</target>
+        <target state="translated">Einfacher Text und HTML</target>
       </trans-unit>
       <trans-unit id="configure_plain_only" resname="configure_plain_only">
         <source>Plain text only</source>
-        <target state="needs-translation">Plain text only</target>
+        <target state="translated">Nur einfacher Text</target>
       </trans-unit>
       <trans-unit id="configure_priority_high" resname="configure_priority_high">
         <source>High</source>
-        <target state="needs-translation">High</target>
+        <target state="translated">Hoch</target>
       </trans-unit>
       <trans-unit id="configure_priority_low" resname="configure_priority_low">
         <source>Low</source>
-        <target state="needs-translation">Low</target>
+        <target state="translated">Niedrig</target>
       </trans-unit>
       <trans-unit id="configure_priority_normal" resname="configure_priority_normal">
         <source>Normal</source>
-        <target state="needs-translation">Normal</target>
+        <target state="translated">Normal</target>
       </trans-unit>
       <trans-unit id="configure_quickmail_charset" resname="configure_quickmail_charset">
         <source>Character set for quick mails</source>
-        <target state="needs-translation">Character set for quick mails</target>
+        <target state="translated">Zeichensatz für Quickmails</target>
       </trans-unit>
       <trans-unit id="configure_quickmail_charset_description" resname="configure_quickmail_charset_description">
         <source>Specify the character set to use when sending quick mails.</source>
-        <target state="needs-translation">Specify the character set to use when sending quick mails.</target>
+        <target state="translated">Gibt den Zeichensatz für den Versand von Quickmail an:</target>
       </trans-unit>
       <trans-unit id="configure_quickmail_encoding" resname="configure_quickmail_encoding">
         <source>Encoding for quick mails</source>
-        <target state="needs-translation">Encoding for quick mails</target>
+        <target state="translated">Kodierung für Quickmails</target>
       </trans-unit>
       <trans-unit id="configure_quickmail_encoding_description" resname="configure_quickmail_encoding_description">
         <source>Select the content transfer encoding to use when sending quick mails.</source>
-        <target state="needs-translation">Select the content transfer encoding to use when sending quick mails.</target>
+        <target state="translated">Wählen Sie die Kodierung für die Übertragung von Inhalten, die beim Versand von Quickmails verwendet werden soll.</target>
       </trans-unit>
       <trans-unit id="configure_simulate_usergroup" resname="configure_simulate_usergroup">
         <source>Frontend User Group</source>
-        <target state="needs-translation">Frontend User Group</target>
+        <target state="translated">Website Benutzergruppe</target>
       </trans-unit>
       <trans-unit id="configure_simulate_usergroup_description" resname="configure_simulate_usergroup_description">
         <source>If mail content is protected by Frontend user authentication, enter the user group here.</source>
-        <target state="needs-translation">If mail content is protected by Frontend user authentication, enter the user group here.</target>
+        <target state="translated">Wenn E-Mail Inhalte von der Benutzergruppe gesichert sind, bitte die Benutzergruppe eingeben.</target>
       </trans-unit>
       <trans-unit id="configure_simulate_usergroup_details" resname="configure_simulate_usergroup_details" xml:space="preserve">
 				<source><![CDATA[The usergroup with the uid specified is used to to fetch the mail content.
 	If you do not specify a usergroup uid and the page has frontend user restrictions, an error will occur and no mail content will be fetched.]]></source>
-			<target state="needs-translation"><![CDATA[The usergroup with the uid specified is used to to fetch the mail content.
-	If you do not specify a usergroup uid and the page has frontend user restrictions, an error will occur and no mail content will be fetched.]]></target></trans-unit>
+			<target state="translated"><![CDATA[Die Benutzergruppe mit der angegebenen UID wird zum Abrufen des E-Mail-Inhalts verwendet. Wenn Sie keine Benutzergruppen-UID angeben und die Seite Einschränkungen für Frontend-Benutzer aufweist, tritt ein Fehler auf und es wird kein E-Mail-Inhalt abgerufen.]]></target></trans-unit>
       <trans-unit id="configure_test_dmail_group_uids" resname="configure_test_dmail_group_uids">
         <source>List of UID numbers of test recipient lists:</source>
-        <target state="needs-translation">List of UID numbers of test recipient lists:</target>
+        <target state="translated">Liste der UID-Nummern von Testempfängern:</target>
       </trans-unit>
       <trans-unit id="configure_test_dmail_group_uids_description" resname="configure_test_dmail_group_uids_description">
         <source>Alternatively to sending test-mails to individuals, you can choose to send to a whole list. This is the list of recipient lists UID numbers available for this action.</source>
-        <target state="needs-translation">Alternatively to sending test-mails to individuals, you can choose to send to a whole list. This is the list of recipient lists UID numbers available for this action.</target>
+        <target state="translated">Alternativ können Sie auch Test-Mails an Einzelpersonen versenden. Dies ist die Liste der Empfänger Listen UID-Nummern für diese Aktion.</target>
       </trans-unit>
       <trans-unit id="configure_test_tt_address_uids" resname="configure_test_tt_address_uids">
         <source>List of UID numbers of test recipients (tt_address):</source>
-        <target state="needs-translation">List of UID numbers of test recipients (tt_address):</target>
+        <target state="translated">Liste der UID (tt_address) von Testempfängern:</target>
       </trans-unit>
       <trans-unit id="configure_test_tt_address_uids_description" resname="configure_test_tt_address_uids_description">
         <source>Before sending mails, you should test the mail content by sending test mails to one or more test recipients. The available recipients for testing are determined by this list of UID numbers. So first, find out the UID numbers (tt_address) of the recipients you wish to use for testing, then enter them here in a comma-separated list.</source>
-        <target state="needs-translation">Before sending mails, you should test the mail content by sending test mails to one or more test recipients. The available recipients for testing are determined by this list of UID numbers. So first, find out the UID numbers (tt_address) of the recipients you wish to use for testing, then enter them here in a comma-separated list.</target>
+        <target state="translated">Vor dem Versand sollten Sie die E-Mail überprüfen, indem Sie die E-Mail an ein oder mehrere Empfänger verschicken. Die verfügbaren Empfänger werden durch diese Liste der UID-Nummern bestimmt. Finde die UID-Nummer der Empfänger (tt_address), die als Testempfängern fungieren und gibt diese in einer kommagetrennten Liste ein.</target>
       </trans-unit>
       <trans-unit id="configure_testmail" resname="configure_testmail">
         <source>Subject for the testmail.</source>
-        <target state="needs-translation">Subject for the testmail.</target>
+        <target state="translated">Betreff des Test-Newsletters.</target>
       </trans-unit>
       <trans-unit id="configure_testmail_description" resname="configure_testmail_description">
         <source>This will be prepended to the test newsletter subject</source>
